@@ -1,0 +1,34 @@
+************Only Computation************
+
+Turnaround time:60.090361
+User time:6.968000
+System time:0.000000
+Running time:6.968000
+Waiting time:53.122361
+Penalty ratio:8.623760
+
+
+
+************executing procinfo*************                 
+
+Bootup: Mon Sep 19 21:37:18 2016   Load average: 5.88 4.27 3.72 7/396 9240     
+
+user  :   03:54:23.88  40.0%  page in :          2233299                       
+nice  :   00:00:32.57   0.1%  page out:          1129980                       
+system:   00:56:38.69   9.7%  page act:           492440                       
+IOwait:   00:05:05.60   0.9%  page dea:           920193                       
+hw irq:   00:00:00.00   0.0%  page flt:          6679167                       
+sw irq:   00:00:20.58   0.1%  swap in :            43927                       
+idle  :   04:49:24.22  49.4%  swap out:           137559                       
+uptime:   10:41:08.32         context :         51502752                       
+
+irq   0:         43  2-edge timer        irq  15:          0  15-edge ata_piix 
+irq   1:      75441  1-edge i8042        irq  18:         59  18-fasteoi vboxvi
+irq   8:          0  8-edge rtc0         irq  19:      45467  19-fasteoi enp0s3
+irq   9:          0  9-fasteoi acpi      irq  20:      87208  20-fasteoi vboxgu
+irq  12:      34396  12-edge i8042       irq  21:     167456  21-fasteoi 0000:0
+irq  14:      37656  14-edge ata_piix    irq  22:         33  22-fasteoi ohci_h
+
+sda           143577r           46986w                                         
+
+enp0s3      TX 1.60MiB       RX 16.23MiB      lo          TX 345.42KiB     RX 345.42KiB    

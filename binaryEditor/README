@@ -1,0 +1,9 @@
+To use bin_editor issue the following command
+# ./bin_editor ./alphabet.
+
+Features:-
+1) Opens file as a stream of bytes with 8 bytes per line.
+2) Alphabet is a file containing small letter english alphabets from a-z. The ascii value of a is 97 and each alphabet is consecutive.
+3) After opening alphabet from bin_editor it is verified that binary value of a is 01100001 which is 97.
+4) bin_editor supports line by line movement and byte by byte movement alongwith modification of line and byte.
+

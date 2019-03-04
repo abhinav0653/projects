@@ -1,0 +1,13 @@
+PREREQUISITES
+procinfo
+install using sudo apt-get install procinfo
+
+To use this setup issue the following commands:-
+1. make clean
+2. make
+3. case1.sh: This script will generate report in folder named 'single'
+4: case2.sh: This script will generate report in folder named 'multiple.
+
+
+case1.sh refers to the case where each program is executed independently for 30seconds.
+case2.sh refers to the case where each program is launched simultaneously and the execution is continued for 60 seconds.

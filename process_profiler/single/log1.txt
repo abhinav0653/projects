@@ -1,0 +1,12 @@
+************Only Computation************
+
+Turnaround time:30.002619
+User time:30.004000
+System time:0.000000
+Running time:30.004000
+Waiting time:-0.001381
+Penalty ratio:0.999954
+
+
+
+************executing procinfo*************

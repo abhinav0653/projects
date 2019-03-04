@@ -1,0 +1,12 @@
+**********Heavy File I/O************
+
+Turnaround time:29.999527
+User time:3.672000
+System time:26.324000
+Running time:29.996000
+Waiting time:0.003527
+Penalty ratio:1.000118
+
+
+
+************executing procinfo*************

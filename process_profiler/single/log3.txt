@@ -1,0 +1,12 @@
+************low computation heavy console output***********
+
+Turnaround time:30.002754
+User time:0.700000
+System time:1.784000
+Running time:2.484000
+Waiting time:27.518754
+Penalty ratio:12.078403
+
+
+
+************executing procinfo*************

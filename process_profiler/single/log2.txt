@@ -1,0 +1,12 @@
+************Only printf**********
+
+Turnaround time:30.002216
+User time:4.604000
+System time:1.688000
+Running time:6.292000
+Waiting time:23.710216
+Penalty ratio:4.768312
+
+
+
+************executing procinfo*************

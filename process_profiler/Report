@@ -1,0 +1,14 @@
+From statistics are obtained by running case1.sh it is observed that
+1)Computationally intensive prog1 spends most of the time in user space.
+2)File I/O intensive prog4 spends most of the time in system space.
+3)Program only outputting to console using printfs(prog2) has a very high waiting time.
+4)Program with light computation and heavy console output has intermediate characteristics.
+
+
+
+When program are run simultaenously the significant observations are
+1)Waiting time increases from 50% to 85%-90% for all the programs. It shows increased competition for a cpu by each of the processes.
+2)The system and user space time spent by each process is almost in same ratio as when run sequentially.
+3)Due to fair scheduling, both CPU bound and I/O bound process get fair chance.
+4)However, if the I/O device is slow(as in case of console),the waiting time of process increases as seen in case of prog2 and prog3.
+

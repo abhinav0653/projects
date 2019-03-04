@@ -1,0 +1,10 @@
+Usage
+python app.py
+
+Demo
+Open flow.txt or lamp.txt using app.
+
+This application allows users to create flowchart using drag and drop UI.
+The flowchart is saved in txt format. Commercial editors use custom format like .doc to restrict the application to their own platform.
+
+
